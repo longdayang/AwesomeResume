@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AwesomeResume</string>
+    <string name="setcion_education">Education</string>
+    <string name="edit_education">Edit Education</string>
+    <string name="add_edication">Add Education </string>
+    <string name="edit_basic_info">Edit Basic info</string>
+    <string name="user_picture">User picture</string>
+    <string name="section_project">Project</string>
+    <string name="education_school">School</string>
+    <string name="education_major">Major</string>
+    <string name="education_startDate">Start Date</string>
+    <string name="education_endDate">End Date</string>
+    <string name="education_courses">Courses</string>
+    <string name="action_delete">DELETE</string>
+    <string name="action_save">Save</string>
+</resources>
